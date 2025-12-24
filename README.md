@@ -26,4 +26,4 @@ PPPPPPPPPP            ooooooooooo   mmmmmm   mmmmmm   mmmmmm   ooooooooooo      
                                                                                                                                                        
 ```
 # Pomodoro Study Timer
-## Python app built with TkInter library.# Pomodoro-timer
+## Python app built with TkInter library.
